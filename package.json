@@ -1,0 +1,25 @@
+{
+  "name": "basic_blockchain",
+  "version": "1.0.0",
+  "description": "Basic Blockchain implimentation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "run": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwoodrow99/basic_blockchain.git"
+  },
+  "author": "Jack Woodrow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwoodrow99/basic_blockchain/issues"
+  },
+  "homepage": "https://github.com/jwoodrow99/basic_blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  }
+}
