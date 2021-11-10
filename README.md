@@ -5,6 +5,7 @@
 ## To run
 
 ```bash
+npm i
 npm run compile
 node build/index.js
 ```
